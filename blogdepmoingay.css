@@ -940,3 +940,25 @@ margin:0 !important;
     height: 40px;
     font-weight: bold;
 }
+.center-screen
+{
+	margin: auto;
+    width: 234px;
+	background:#60b736;
+	color:#fff;
+	text-align:center;
+	padding: 20px;
+}
+.center-screen input{
+	border: none; width: 100%; box-sizing: border-box; padding: 10px 0; margin: 0; box-shadow: none; border-radius: 0; height: 45px; text-indent: 10px; text-align: center;
+	background: #35880c; color: #fff
+}
+.center-screen input::-webkit-input-placeholder { color: inherit; opacity: 0.8; }
+.center-screen input:-moz-input-placeholder { color: inherit; opacity: 0.8; }
+.center-screen input::-moz-input-placeholder { color: inherit; opacity: 0.8; }
+.center-screen input::-ms-input-placeholder { color: inherit; opacity: 0.8; }
+.center-screen input:focus::-webkit-input-placeholder {color: transparent !important;}
+.center-screen input:focus::-moz-input-placeholder {color: transparent !important;}
+.center-screen input:focus:-moz-input-placeholder {color: transparent !important;}
+.center-screen input:focus::input-placeholder {color: transparent !important;}
+.center-screen input.submit { background: #FFFFFF; color: #35880c; margin-top: 10px; font-size: 18px; text-transform: uppercase; font-weight: 500; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05); cursor: pointer;}
