@@ -962,3 +962,4 @@ margin:0 !important;
 .center-screen input:focus:-moz-input-placeholder {color: transparent !important;}
 .center-screen input:focus::input-placeholder {color: transparent !important;}
 .center-screen input.submit { background: #FFFFFF; color: #35880c; margin-top: 10px; font-size: 18px; text-transform: uppercase; font-weight: 500; box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.05); cursor: pointer;}
+.center-screen h4{padding:10px 0;}
