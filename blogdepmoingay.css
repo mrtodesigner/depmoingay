@@ -784,11 +784,11 @@ color: #ccc;
 Footer CSS
 ******************************************/
 #footer {
-background: #2c3e50;
+background: #3f658b;
 width: 100%;
 color: #FFFFFF;
-border-top: 5px solid #e74c3c;
-border-bottom: 1px solid #27282E;
+border-top: 5px solid #639edb;
+border-bottom: 1px solid #639edb;
 font-weight:light;
 }
 
